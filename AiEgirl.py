@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level=logging.DEBUG)
 
-TOKEN = 'MTI4MjM3MTM1MDQ5Mjc0MTc0Mw.GsUKWX.1SR3ehJ1Sa-FzvCA_proQn9ZkeRJi6Op7rv5Gw'
+TOKEN = 'MTI4MjM3MTM1MDQ5Mjc0MTc0Mw.Gwi-od.oByFhM5I1aoSo4uS0TGA1oZgl3XN_FP_AqGDdU'
 
 intents = discord.Intents.default()
 intents.messages = True
